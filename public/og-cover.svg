@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#F7F2E8"/>
+  <circle cx="1030" cy="230" r="210" fill="#F1DDC7"/>
+  <circle cx="1020" cy="215" r="135" fill="#D77A36"/>
+  <rect x="74" y="62" width="68" height="68" fill="#C94F3D"/>
+  <text x="108" y="112" font-size="43" font-weight="bold" fill="#fff" text-anchor="middle" font-family="sans-serif">休</text>
+  <text x="161" y="110" font-size="37" font-weight="bold" fill="#20201D" font-family="sans-serif">牛马假期含金量</text>
+  <text x="70" y="305" font-size="76" font-weight="bold" fill="#20201D" font-family="sans-serif">你以为休了13天，</text>
+  <text x="70" y="414" font-size="76" font-weight="bold" fill="#D77A36" font-family="sans-serif">真正属于自己的有几天？</text>
+  <text x="74" y="530" font-size="29" fill="#4F7168" font-family="sans-serif">假期是自己的，先把账算明白。</text>
+</svg>

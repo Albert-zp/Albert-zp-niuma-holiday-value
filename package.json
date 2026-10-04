@@ -1,0 +1,26 @@
+{
+  "name": "niuma-holiday-value",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "npm run build && vite preview --configLoader runner --host 0.0.0.0",
+    "build": "tsc -b && vite build --configLoader runner",
+    "preview": "vite preview --configLoader runner --host 0.0.0.0",
+    "test": "node --experimental-strip-types --test src/calculator.test.ts"
+  },
+  "dependencies": {
+    "qrcode": "^1.5.4",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.30",
+    "@types/qrcode": "^1.5.5",
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "@vitejs/plugin-react": "^4.7.0",
+    "typescript": "~5.8.3",
+    "vite": "^6.3.5"
+  }
+}
